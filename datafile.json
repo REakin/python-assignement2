@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "Name": "Ryan",
+        "Class": "Druid",
+        "Level": 1,
+        "Health": 10,
+        "Strength": 1,
+        "Dexterity": 1,
+        "Intelligence": 1
+    },
+    {
+        "id": 2,
+        "Name": "Matt",
+        "Class": "Hunter",
+        "Level": 1,
+        "Health": 10,
+        "Strength": 1,
+        "Dexterity": 2,
+        "Intelligence": 3
+    },
+    {
+        "id": 3,
+        "Name": "Evan",
+        "Class": "Warrior",
+        "Level": 1,
+        "Health": 10,
+        "Strength": 3,
+        "Dexterity": 2,
+        "Intelligence": 2
+    }
+]
